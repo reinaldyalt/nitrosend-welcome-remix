@@ -13,7 +13,7 @@ I took one of the dark, high-contrast welcome designs from the public Nitrosend 
 - From: hello@reinaldyalt.nitrosend.net
 - To: proof@dogfood.nitrosend.net
 - Subject: Welcome in.
-- Message id: PENDING_SEND
+- Message id: 5484925 (status: sent, sent_at 2026-11-10T00:01:44Z, provider SES id 010001a1c2c2b9a2-c4bf3486-6312-4ad5-8ed3-e7ecaa471d6d-000000)
 - Template: template.html in this repo.
 
 ## Notes on v0
